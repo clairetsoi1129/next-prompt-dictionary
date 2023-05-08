@@ -1,3 +1,22 @@
+## Introduction
+
+## How to start 
+```
+npx create-next-app@latest ./
+✔ Would you like to use TypeScript with this project? … No
+✔ Would you like to use ESLint with this project? … No
+✔ Would you like to use Tailwind CSS with this project? … Yes
+✔ Would you like to use `src/` directory with this project? … No 
+✔ Use App Router (recommended)? … Yes
+✔ Would you like to customize the default import alias? … No
+
+npm install bcrypt mongodb mongoose next-auth
+
+npm run dev
+
+```
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
